@@ -1,0 +1,31 @@
+Overall
+ - fix transcribe nightly code for new dataframe
+ - begin database function implementations
+ - by tomorrow night 1/2/2023 run first nightly
+ -Multiprocessing pool prevnt race conditions/ create locks
+
+
+textSummaryService.py
+ - keywords
+ - maybe semantics
+
+WISH List
+----------
+-spotify pdocast financial news transcriptiion
+-More news channels for finance
+-Wikipedia articles
+-google scholar mtransformer model
+-financial report generation mdels
+----------------------------------------------------
+Finished
+----------------------------------------------------
+-Need a main.py - Nightly
+- HPC multiprocessing for transcribe ---done
+getRecent.py
+    -List of channels 
+    -loop through channels
+TO DO WEEK 12/26/2022
+ -revamp init files and file directories
+
+
+
