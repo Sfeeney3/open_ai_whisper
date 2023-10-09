@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 
 response = openai.Completion.create(
   model="text-davinci-003",
